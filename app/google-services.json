@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278531163630",
+    "project_id": "socia-7fc4d",
+    "storage_bucket": "socia-7fc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278531163630:android:f64ec6c671443f0a90faff",
+        "android_client_info": {
+          "package_name": "com.example.socia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278531163630-7ic7qudsd0umjgin5v41ljqp9eqa5dsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8W__idCnWVfSVOnxtOsFdKgMQaxb6bmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278531163630-7ic7qudsd0umjgin5v41ljqp9eqa5dsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
